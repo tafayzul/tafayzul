@@ -16,9 +16,9 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
-
+<div>
 
 ### Frontend  
 <div align="center">  
@@ -31,7 +31,7 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 
 
@@ -43,11 +43,7 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>
-
-
-
-<br/>  
-
+  </div>
 
 
 
@@ -60,16 +56,20 @@
 
 
 
+
+
+
+
+  <div>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tafayzul&theme=github-green-purple)](https://git.io/streak-stats)
-<br />
+
 
 
 | <a href="https://github.com/tafayzul/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tafayzul&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tafayzul/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafayzul&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+</div>
 
-<br />
-<br />
 
