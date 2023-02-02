@@ -10,7 +10,7 @@
 🧑‍💻 I'm the one who builds for the Web
 
 🎵 Listening to Music is love ❤️
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?tafayzul=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐Socials
 
