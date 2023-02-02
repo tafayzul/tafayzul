@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello World 🌍
 
-<!--
-**tafayzul/tafayzul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%">
 
-Here are some ideas to get you started:
+### 💫About Me :
+👨‍🎓 I am a BE Mech Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️ I love Technology
+
+🧑‍💻 I'm the one who builds for the Web
+
+🎵 Listening to Music is love ❤️
+
+
+## 🌐Socials
+
+
+<h3 align="left">Other Tools:</h3>
+
+<p>&nbsp;<img align="center" src="https://github.com/tafayzul" alt="tafayzul" /></p>
+
+<p><img align="center" src="www.linkedin.com/in/tafayzul-pathan" alt="tafayzul" /></p>
+
+---
