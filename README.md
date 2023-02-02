@@ -28,7 +28,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 
 <a href="https://github.com/tafayzul/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github.com/tafayzul/WeatherApp-by-React" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
