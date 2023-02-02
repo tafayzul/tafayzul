@@ -3,22 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm Tafayzul, a full-time full-stack developer 👨‍💻 Open to work 🚀</div>  
+### <div align="center">I'm Tafayzul, a Full-stack developer 👨‍💻 Open to work 🚀</div>  
   
 
 - 🌱 I’m currently Puring Full Stack Developer  
-- ❤️ I love writing TypeScript, and building fun experiments on type-level  
-- ❓ Ask me about anything related to Front-end and related technologies  
- - 💬 Ask me about anything [here](https://github.com/tafayzul/tafayzul/issues)
+- ❤️ I love to building fun experiments on type-level   
+- 💬 Ask me about anything [here](https://github.com/tafayzul/tafayzul/issues)
   
 
 <br/>  
-
-
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
-<div>
+
 
 ### Frontend  
 <div align="center">  
@@ -31,7 +28,7 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -43,7 +40,27 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>
-  </div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/https://github.com/tafayzul" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/tafayzul-pathan" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/tafayzul_13" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
 
 
 
@@ -56,20 +73,13 @@
 
 
 
-
-
-
-
-  <div>
-
-
+## Github Stats  
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tafayzul&theme=github-green-purple)](https://git.io/streak-stats)
-
-
 
 | <a href="https://github.com/tafayzul/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tafayzul&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tafayzul/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafayzul&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-</div>
+
 
 
