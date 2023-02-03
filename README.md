@@ -6,7 +6,7 @@
 ### <div align="center">I'm Tafayzul, a Full-stack developer 👨‍💻 Open to work 🚀</div>  
   
 
-- 🌱 I’m currently Puring Full Stack Developer  
+- 🌱 I’m currently Pursuing Full Stack Developer  
 - ❤️ I love to building fun experiments on type-level   
 - 💬 Ask me about anything [here](https://github.com/tafayzul/tafayzul/issues)
   
