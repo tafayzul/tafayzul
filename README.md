@@ -4,17 +4,6 @@
   <img src="https://profile-counter.glitch.me/tafayzul/count.svg" />
 </p>
 
-
-
-
-
-
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Tafayzul, a Full-stack developer 👨‍💻 Open to work 🚀</div>  
   
 
