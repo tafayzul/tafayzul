@@ -56,12 +56,6 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=tafayzul&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
-  <!-- General Stats and Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tafayzul&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" height="195" alt="tafayzul's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafayzul&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="tafayzul's top languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=tafayzul&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="195" alt="tafayzul's github stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tafayzul&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="tafayzul's top languages" />
 </div>
