@@ -76,9 +76,10 @@
 
 ## Github Stats  
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tafayzul&theme=github-green-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tafayzul&theme=github-green-purple)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-| <a href="https://github.com/tafayzul/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tafayzul&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tafayzul/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafayzul&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tafayzul&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="tafayzul's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafayzul&layout=compact&theme=buefy&hide_border=true" alt="tafayzul's top languages" /></a> |
+|---|---|
 | ------------- | ------------- |
 
 
