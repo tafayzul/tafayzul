@@ -1,7 +1,7 @@
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/tafayzul/count.svg" />
+  Visitor count<br> 
+  <img src="https://komarev.com/ghpvc/?username=tafayzul&style=flat-square&color=blue" alt="tafayzul profile views" />
 </p>
 
 ### <div align="center">I'm Tafayzul, a Full-stack developer 👨‍💻 Open to work 🚀</div>  
